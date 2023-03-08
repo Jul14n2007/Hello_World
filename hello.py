@@ -1,4 +1,5 @@
-Nome = input ("Escreva o seu Nome:")
-print ("Olá " + Nome)
-Idade = input ("Por Favor coloque a sua idade:")
-print ("O(a) "+Nome+" possui "+Idade+" anos.")
+V_Nome = input ("Digite seu Nome ")
+V_Endereço = input ("Digite seu Endereço ")
+V_Profissao = input ("Digite sua Profissao ")
+
+print(f" Nome: {V_Nome} - Endereço: {V_Endereço} - Profição: {V_Profissao}")
