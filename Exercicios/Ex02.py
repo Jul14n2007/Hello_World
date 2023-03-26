@@ -1,4 +1,3 @@
 Z = int (input("Digite um numero: "))
-Y = int (input("Agora Digite outro numero: "))
-
-print(Z+Y)
+X = int (input("Agora Digite outro numero por favor: "))
+print(Z+X)
